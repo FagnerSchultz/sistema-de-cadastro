@@ -5,5 +5,5 @@
 Para rodar esse projeto na sua máquina
 
 ```
-som javascript angular html react
+node app.js
 ```
